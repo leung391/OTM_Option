@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[38]:
-
-
 #libraries
 import yfinance as yf
 import pandas as pd
@@ -376,10 +370,3 @@ def option_spread():
     plt.show()
 
 option_spread()
-
-
-# In[ ]:
-
-
-
-
